@@ -1,0 +1,38 @@
+[
+    {
+        "author_name": "Mr. Raju",
+        "author_profile": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "watchTime": 12,
+        "description": "How to get your first job as a self-taught programmer",
+        "banner": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+        "publish_date": "Action/Crime",
+        "imdbRating": 9.0
+    },
+    {
+        "author_name": "Ms. Setara",
+        "author_profile": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "watchTime": 8,
+        "description": "Complete Web Devolopment With ProgammingHero",
+        "banner": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+        "publish_date": "Drama",
+        "imdbRating": 9.3
+    },
+    {
+        "author_name": "Mina Mostofa",
+        "author_profile": "https://plus.unsplash.com/premium_photo-1671823917954-dc943c1bd9df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "watchTime": 9,
+        "description": " Java For Beginner",
+        "banner": "https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "publish_date": "Action/Sci-Fi",
+        "imdbRating": 8.8
+    },
+    {
+        "author_name": "Radif Khan",
+        "author_profile": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "watchTime": 15,
+        "description": "Future Of A Machine learning",
+        "banner": "https://plus.unsplash.com/premium_photo-1677094310918-cc302203b21c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+        "publish_date": "Drama/Comedy",
+        "imdbRating": 8.8
+    }
+]
